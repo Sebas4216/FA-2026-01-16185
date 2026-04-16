@@ -16,7 +16,7 @@ namespace SE3_C
             nombre = Console.ReadLine();
 
 
-            Console.WriteLine("\n\""+nombre+"\"");
+            Console.WriteLine("\""+nombre+"\"");
            
             Console.ReadKey();
 
