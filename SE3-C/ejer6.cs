@@ -8,5 +8,10 @@ namespace SE3_C
 {
     internal class ejer6
     {
+        static void Main(string[] args)
+        {
+
+
+        }
     }
 }
